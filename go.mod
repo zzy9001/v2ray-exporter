@@ -6,7 +6,7 @@ require (
 	github.com/jessevdk/go-flags v1.5.0
 	github.com/prometheus/client_golang v1.19.0
 	github.com/sirupsen/logrus v1.9.3
-	github.com/v2fly/v2ray-core/v4 v4.45.2
+	github.com/xtls/xray-core v1.8.24
 	google.golang.org/grpc v1.62.1
 )
 
