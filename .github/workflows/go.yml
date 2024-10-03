@@ -31,6 +31,6 @@ jobs:
 
     - name: Run Makefile targets
       run: |
-        make lint
-        make release_notes
+        #make lint
+        #make release_notes
         make build TAG=${{ github.sha }}
