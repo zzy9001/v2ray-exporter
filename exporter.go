@@ -8,7 +8,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/v2fly/v2ray-core/v4/app/stats/command"
+	"github.com/xtls/xray-core/app/stats/command"
 
 	"github.com/prometheus/client_golang/prometheus"
 	"github.com/sirupsen/logrus"
